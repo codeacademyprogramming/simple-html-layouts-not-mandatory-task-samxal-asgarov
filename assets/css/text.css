@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 25px;
+    /* letter-spacing: 10px; */
+    /* word-spacing: 20px; */
+    text-align: justify;
+    text-align-last: left;
+    text-indent: 100px;
+    text-decoration: underline dotted;
+    line-height: 24px;
+}
+
+a {
+    text-decoration: none;
+}
+
